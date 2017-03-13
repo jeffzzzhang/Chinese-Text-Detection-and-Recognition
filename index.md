@@ -7,7 +7,6 @@
 ## **Introduction**
 
 Historically, Chinese character recognition has been extensively studied . In the mobile internet era, the research on the robust recognition of handwritten Chinese characters in an unconstraint manner has become increasingly popular due to the application demand. In terms of the task complexity, the offline handwritten Chinese text recognition is the most challenging task due to the lack of trajectory information and the free writing style, which is also the topic of this study.
-
 --
 
 ## **reference paper:**
