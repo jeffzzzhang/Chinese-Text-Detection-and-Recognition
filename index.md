@@ -1,31 +1,18 @@
-## 蔡玮 陈利 程伟 王新旺
-You can use the [editor on GitHub](https://github.com/pukitoto/puki/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+中文字符识别
+====
+组员蔡玮 陈利 程伟 王新旺
+---
+##Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Historically, Chinese character recognition has been extensively studied . In the mobile internet era, the research on the robust recognition of handwritten Chinese characters in an unconstraint manner has become increasingly popular due to the application demand. In terms of the task complexity, the offline handwritten Chinese text recognition is the most challenging task due to the lack of trajectory information and the free writing style, which is also the topic of this study.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+##reference paper:
+1、[A CNN Based Scene Chinese Text Recognition Algorithm With Synthetic Data Engine](https://arxiv.org/pdf/1604.01891.pdf)
+2、[Neural Network Classifiers for Optical Chinese Character Recognition](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/pcvision/www/papers/chinese/final.html)
 
 ### Jekyll Themes
 
@@ -34,3 +21,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
