@@ -1,7 +1,7 @@
 **中文字符识别**
 ==
 
-组员蔡玮 陈利 程伟 王新旺
+组员： 蔡玮 陈利 程伟 王新旺
 --
 
 ## **Introduction**
@@ -16,4 +16,6 @@ Historically, Chinese character recognition has been extensively studied . In th
 1、[A CNN Based Scene Chinese Text Recognition Algorithm With Synthetic Data Engine](https://arxiv.org/pdf/1604.01891.pdf)
 2、[Neural Network Classifiers for Optical Chinese Character Recognition](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/pcvision/www/papers/chinese/final.html)
 
-
+### week3
+1·制作网站
+2·查找文献
