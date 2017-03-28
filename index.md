@@ -17,8 +17,13 @@ Historically, Chinese character recognition has been extensively studied . In th
 
 ---
 
-## Week 3
+## **Week 3**
 
+1、制作网页
+
+2、查找参考文献
+
+## **Week 4**
 ------
 
 检索有关字符识别的方法资料，并尝试理清其实现方案。学习其中方法并找出可借鉴性。
